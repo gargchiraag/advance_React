@@ -1,0 +1,31 @@
+button{
+    padding: 10px;
+    background-color: rgb(62, 62, 189);
+    border-radius: 5px;
+    margin: 15px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    background-color: aliceblue;
+}
+label{
+    margin: 10px;
+}
+input{
+    padding: 10px;
+
+}
+.signup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+}
+.signup>span{
+    padding: 10px;
+    
+}

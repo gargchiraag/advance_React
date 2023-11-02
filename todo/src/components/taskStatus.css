@@ -1,0 +1,25 @@
+.status{
+    background-color: bisque;
+    font-size: 25px;
+}
+.mainStatus{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+#inputDiv{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    left: 50%;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    padding: 8px;
+    background-color: rgb(23, 118, 60);
+    margin-top: 5px;
+}
